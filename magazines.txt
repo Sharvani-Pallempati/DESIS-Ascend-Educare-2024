@@ -1,0 +1,15 @@
+National Geographic,National Geographic Society,Science,2023,9.99,100,true,English,100,true
+Time,Time Inc.,News,2023,5.99,200,false,English,50,false
+Forbes,Forbes Media,Business,2023,6.99,150,false,English,75,true
+Vogue,Condé Nast,Fashion,2023,8.99,120,true,English,85,false
+Scientific American,Springer Nature,Science,2023,12.99,100,true,English,40,true
+The New Yorker,Condé Nast,Literature,2023,7.99,100,false,English,30,false
+Popular Science,Bonnier Corporation,Science,2023,4.99,50,true,English,20,true
+People,Meredith Corporation,Entertainment,2023,3.99,300,false,English,90,false
+The Economist,The Economist Group,Economics,2023,10.99,70,true,English,60,true
+National Wildlife,National Wildlife Federation,Nature,2023,5.49,80,false,English,10,true
+Sports Illustrated,Authentic Brands Group,Sports,2023,4.99,120,false,English,25,false
+Reader's Digest,Trusted Media Brands,Literature,2023,3.99,200,true,English,40,true
+Architectural Digest,Condé Nast,Design,2023,9.99,90,true,English,15,false
+Car and Driver,Hearst Communications,Automotive,2023,5.99,110,false,English,30,true
+Better Homes & Gardens,Meredith Corporation,Home,2023,4.99,200,true,English,20,false

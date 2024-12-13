@@ -1,0 +1,15 @@
+The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,10.99,50,true,Classic Series,50,4.5,English
+To Kill a Mockingbird,Harper Lee,Fiction,1960,7.99,60,true,Classic Series,30,4.9,English
+1984,George Orwell,Science Fiction,1949,8.99,70,false,Dystopian,25,4.8,English
+Pride and Prejudice,Jane Austen,Romance,1813,6.99,80,true,Classic Series,40,4.7,English
+The Catcher in the Rye,J.D. Salinger,Fiction,1951,9.99,40,false,Modern Classics,20,4.2,English
+The Hobbit,J.R.R. Tolkien,Fantasy,1937,10.99,30,true,Middle Earth Series,15,4.9,English
+Fahrenheit 451,Ray Bradbury,Science Fiction,1953,7.99,50,false,Dystopian,12,4.3,English
+Moby Dick,Herman Melville,Adventure,1851,11.99,20,false,Classic Series,10,4.1,English
+War and Peace,Leo Tolstoy,Historical,1869,14.99,10,true,World Classics,80,4.4,English
+The Odyssey,Homer,Poetry,-700,12.99,15,true,Ancient Classics,50,4.6,English
+Crime and Punishment,Fyodor Dostoevsky,Fiction,1866,10.99,25,false,Russian Classics,75,4.8,English
+Jane Eyre,Charlotte Bronte,Romance,1847,8.99,35,true,Classic Series,100,4.5,English
+Brave New World,Aldous Huxley,Science Fiction,1932,7.49,40,false,Dystopian,85,4.4,English
+Wuthering Heights,Emily Bronte,Romance,1847,9.49,45,true,Classic Series,95,4.6,English
+The Alchemist,Paulo Coelho,Philosophy,1988,8.99,70,true,Modern Fiction,30,4.2,English
