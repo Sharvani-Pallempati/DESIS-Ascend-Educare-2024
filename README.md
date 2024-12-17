@@ -56,8 +56,12 @@ The Bookshop Inventory Management System is a C++ application designed to stream
 ## Usage Instructions
 1. Launch the program.
 2. Choose your role (Manager, Cashier, Customer, or Guest).
+- Manager ID - 1
+- Cashier ID - 10
+- Customer ID - 100
 3. Follow the intuitive menu system for operations like inventory management, customer registration, or browsing.
 4. Exit the program when done.
+
 
 ## Contributors
 - Sharvani
