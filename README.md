@@ -38,7 +38,9 @@ The Multi User Chat System is a client-server application implemented in C++ usi
 
 ## Example Usage
 1. **Server Output:**
-- Server started listening on port 12345 Alice connected... Bob connected...
+- `Server started listening on port 12345`
+- `Alice connected...`
+- `Bob connected...`
 
 2. **Client Interaction:**
 - Alice: `To Bob Hello, Bob!`
